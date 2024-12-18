@@ -92,7 +92,8 @@ This course is an advanced Power BI training, covering:
 ---
 
 ### Author
-[Your Name]  
+Allan Otieno
+allanotieno2001@gmail.com
 Data Enthusiast | Power BI Specialist
 
 ---
